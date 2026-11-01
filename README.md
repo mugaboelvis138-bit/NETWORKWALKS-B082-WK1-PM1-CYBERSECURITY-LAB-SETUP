@@ -323,10 +323,9 @@ This laboratory is intended strictly for education purposes only.
 **Mugabo Elvis**\
 Student ID 28047
 
-LinkedIn: [Your LinkedIn link]
 
 ---
 
 ## 📌 Project Information
 
-**Program Name:** [Program name] | **Week:** [Week] | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+**Program Name:** Lab Setup | **Week:** week 1 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
